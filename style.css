@@ -10,6 +10,7 @@ body {
   width: 100%;
 
 }
+
 #leftdiv {
   width: 50%;
   height: 100px;
@@ -18,10 +19,11 @@ body {
   border: solid;
   border-color: blue;
 }
-#leftdiv img{
+
+#leftdiv img {
   width: 400px;
   height: 400px;
-  display:block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
@@ -34,10 +36,10 @@ body {
   border-color: green;
 }
 
-#rightdiv img{
+#rightdiv img {
   width: 400px;
   height: 400px;
-  display:block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
