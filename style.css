@@ -1,0 +1,47 @@
+body {
+  background-color: lightblue;
+}
+.calculatehead {
+  text-align: center;
+}
+
+#maindiv {
+  width: 100%;
+
+}
+#leftdiv {
+  width: 50%; 
+  height: 100px; 
+  float: left; 
+  background: whitesmoke;
+  border: solid;
+  border-color: blue;
+}
+#leftdiv img{
+width: 400px;
+height: 400px;
+display:block;
+margin-left: auto;
+margin-right: auto;
+}
+
+#rightdiv {
+margin-left: 50%;
+height: 100px;
+background: whitesmoke;
+border: solid;
+border-color: green;
+}
+#rightdiv img{
+width: 400px;
+height: 400px;
+display:block;
+margin-left: auto;
+margin-right: auto;
+}
+.achead {
+  text-align: center;
+}
+#secondarydiv {
+  text-align: center;
+}
